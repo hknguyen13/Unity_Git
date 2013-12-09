@@ -11,6 +11,6 @@ Tutorial is listed here: http://unity3d.com/learn/tutorials/projects/roll-a-ball
 Stealth:
 Short minigame where the player controls Ethan who is trying to escape a facility, via the elevator,
 while avoiding confronting the robot guards. Good Luck!
-https://rawgithub.com/hknguyen13/Unity_Git/master/Stealth_Proj/Stealth_Proj.html
+https://rawgithub.com/hknguyen13/Unity_Git/master/Stealth_proj/Stealth_proj.html
 
 Tutorial is listed here: http://unity3d.com/learn/tutorials/projects/stealth
